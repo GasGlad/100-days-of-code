@@ -1,13 +1,13 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
+### Day 0: March 28, 2021
+##### (Just started...)
 
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
+**Today's Progress**: just started a FreeCodeCamp.
 
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
+**Thoughts:** Just one question, where the heck do all people start?.
 
-**Link to work:** [Calculator App](http://www.example.com)
+**Link to work:**
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
